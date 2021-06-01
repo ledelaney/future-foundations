@@ -1,0 +1,9 @@
+
+rmd_files: [
+  "index.Rmd",
+  "syllabus.Rmd",
+  "1-week.Rmd"
+
+]
+
+before_chapter_script: "_common.R"

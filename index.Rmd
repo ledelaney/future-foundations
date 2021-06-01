@@ -1,0 +1,15 @@
+---
+knit: "bookdown::render_book"
+title: "Foundations of the Future"
+author: "Lucy Delaney"
+description: "Foundations of the Future"
+url: 'https\://ledelaney.org/teaching/future-foundations/'
+github-repo: ledelaney/future-foundations
+twitter-handle: emergentlyLucy
+cover-image: cover.png
+site: bookdown::bookdown_site
+documentclass: book
+---
+
+# Welcome {.unnumbered}
+
