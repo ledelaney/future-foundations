@@ -1,8 +1,12 @@
 
 rmd_files: [
   "index.Rmd",
-  "syllabus.Rmd",
-  "1-week.Rmd"
+  "1-week.Rmd",
+  "2-week.Rmd",
+  "3-week.Rmd",
+  "4-week.Rmd",
+  "policies.Rmd",
+  "assignments.Rmd",
 
 ]
 
