@@ -1,7 +1,8 @@
 # Week 2: Sep 3
 
-<div class="boxed">
-**Topic** \ Finding our Direction: What interests us?</div>
+<div class="boxed" id="center">
+**Topic**  
+Finding our Direction: What interests us?</div>
 
 The first stop of any research endeavor is nailing down an area of interest. General methods for discovering such a topic with associated readings. Always linking back to our _Ikigai_ (e.g., the intersection of what we love, what we're good at, what's feasible, etc.)
 

@@ -1,7 +1,8 @@
 # Week 13: Nov 19
 
-<div class="boxed">
-**Topic** \ Staying the course: How will we stay motivated?</div>
+<div class="boxed" id="center">
+**Topic**  
+Staying the course: How will we stay motivated?</div>
 
 Techniques to stick with our work when it's the last thing we want to do.
 

@@ -1,7 +1,8 @@
 # Week 5: Sep 24
 
-<div class="boxed">
-**Topic** \ Planning our destination: What if people think our questions are stupid?</div>
+<div class="boxed" id="center">
+**Topic**  
+Planning our destination: What if people think our questions are stupid?</div>
 
 Recognizing and dealing with imposter syndrome.
 

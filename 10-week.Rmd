@@ -1,7 +1,8 @@
 # Week 10: Oct 29
 
-<div class="boxed">
-**Topic** \ Communicating our destination: Why should anyone care?</div>
+<div class="boxed" id="center">
+**Topic**  
+Communicating our destination: Why should anyone care?</div>
 
 Persuasively communicating our work in written and/or oral form.
 

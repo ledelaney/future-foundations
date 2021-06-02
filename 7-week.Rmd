@@ -1,7 +1,8 @@
 # Week 7: Oct 8
 
-<div class="boxed">
-**Topic** \ Detailing our maps: What if we don't know what to do?</div>
+<div class="boxed" id="center">
+**Topic**  
+Detailing our maps: What if we don't know what to do?</div>
 
 Carrying out research sometimes means becoming your own teacher -- in the end, you will be the expert in your work even more than your academic advisor. Techniques for learning on your own.
 

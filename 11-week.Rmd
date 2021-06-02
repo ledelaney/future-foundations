@@ -1,7 +1,8 @@
 # Week 11: Nov 5
 
-<div class="boxed">
-**Topic** \ Communicating our destination: What if no one listens?</div>
+<div class="boxed" id="center">
+**Topic**  
+Communicating our destination: What if no one listens?</div>
 
 Staying true to our values and defending what we believe in the face of criticism.
 

@@ -1,7 +1,8 @@
 # Week 15: Dec 3
 
-<div class="boxed">
-**Topic** \ Developing our explorer identities: What does our work mean to us and to the world?
+<div class="boxed" id="center">
+**Topic**  
+Developing our explorer identities: What does our work mean to us and to the world?
 </div>
 
 Learning how to put it all together to communicate our professional identities.

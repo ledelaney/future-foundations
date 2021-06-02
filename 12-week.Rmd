@@ -1,7 +1,8 @@
 # Week 12: Nov 12
 
-<div class="boxed">
-**Topic** \ Funding our journey: Who will pay us?</div>
+<div class="boxed" id="center">
+**Topic**   
+Funding our journey: Who will pay us?</div>
 
 Finding job and/or funding opportunities, and techniques for successful applications.
 

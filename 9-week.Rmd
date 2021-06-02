@@ -1,7 +1,8 @@
 # Week 9: Oct 22
 
-<div class="boxed">
-**Topic** \ Honing our skills: What if it doesn't work?</div>
+<div class="boxed" id="center">
+**Topic**  
+Honing our skills: What if it doesn't work?</div>
 
 Coping with roadblocks and failures. Everyone stumbles: but how do they get back up and learn from their mistakes?
 
