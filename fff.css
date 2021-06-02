@@ -17,8 +17,8 @@
 .boxed {
   background: whitesmoke;
   border: thin solid black;
-  margin: 0px auto;
   padding: 10px;
   border-radius: 10px;
-  margin-bottom: 1em;
+  margin-bottom: 2em;
+  margin-top: 2em;
 }

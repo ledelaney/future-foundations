@@ -1,6 +1,7 @@
 # Week 8: Oct 15
 
-**Topic** \ Honing our skills: What do we need to get there?
+<div class="boxed">
+**Topic** \ Honing our skills: What do we need to get there?</div>
 
 Introduction to the various tools we can use in our work, with an emphasis on computational tools. Not just for analysis, but creating fresh and reproducible documents, designing websites, creating digital illustrations, organizing our resources (citation managers), etc.
 

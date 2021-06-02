@@ -1,6 +1,7 @@
 # Week 6: Oct 1
 
-**Topic** \ Detailing our maps: How will we get there?
+<div class="boxed">
+**Topic** \ Detailing our maps: How will we get there?</div>
 
 Introduction to various research methodologies -- quantitative, qualitative, mixed; creative expression in art or writing; review of literature to answer new questions. Examining methods from various disciplines that touch on different question-types.
 

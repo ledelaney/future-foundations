@@ -1,3 +1,4 @@
 # Thanksgiving!
 
-**Topic** \ Enjoying your break!
+<div class="boxed">
+**Topic** \ Enjoying your break!</div>
