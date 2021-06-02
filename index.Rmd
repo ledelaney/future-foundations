@@ -13,7 +13,9 @@ documentclass: book
 
 # The Journey Begins {-}
 
-**Instructor:** Lucy Delaney (`ldelan5@uic.edu`)  
+<i class="fas fa-tools fa-lg"></i> _Note: This website is currently under construction!_ <i class="fas fa-tools fa-lg"></i>
+
+**Instructor:** Lucy Delaney (`ldelan5@uic.edu`)  ![](images/flamingo.png){.cover width="250"}
 **Time:** Fridays 2:00-2:50pm  
 **Classroom:** BH 304  
 **Drop-in Hours:** Fridays 3:00-4:00p or by appointment

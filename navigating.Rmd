@@ -50,7 +50,7 @@ col2 <- enframe(c("Discovering our Ikigai: What motivates us?",
                 name = NULL, value = "Topic")
  
 col3 <- enframe(c("Ikigai diagrams", 
-                  "finding a topic", 
+                  "discovering our interests", 
                   "growth mindset", 
                   "finding gaps to investigate",
                   "imposter syndrome",
