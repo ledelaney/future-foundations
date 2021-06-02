@@ -1,0 +1,78 @@
+# Navigating this Course {-}
+
+Discovering ourselves -- the values that drive us, the unique set of strengths we possess -- and figuring out how we can enhance and use those gifts in service to the world is profound and meaningful work. Is it also hard work? Sure, it's that too. But I will be here every step of the way to provide support. You are always welcome to [contact me](mailto:ldelan5@uic.edu) for any reason, or stick around after class for drop-in hours. And remember the old saying:
+
+> How do you eat an elephant? One bite at a time.
+
+## The course website {-}
+
+This website will serve as the informal "textbook" for our course. Using the navigation panel on the left (or click the three bars above if on a phone), you will find:
+
+1. A page for each week, outlining the topics, activities, and materials we will cover,
+2. More information on submitting your assignments and how they will be graded under [Submitting Assignments](#submitting-assignments), and 
+3. Important course policies and information under [Policies](#policies).
+
+## The broad course map {-}
+
+```{r}
+library(tidyverse)
+col1 <- enframe(c("Aug 27", 
+                  "Sep 3", 
+                  "Sep 10", 
+                  "Sep 17",
+                  "Sep 24",
+                  "Oct 1",
+                  "Oct 8",
+                  "Oct 15",
+                  "Oct 22",
+                  "Oct 29",
+                  "Nov 5",
+                  "Nov 12",
+                  "Nov 19",
+                  "Nov 26",
+                  "Dec 3"), name = NULL, value = "Week")
+
+col2 <- enframe(c("Discovering our Ikigai: What motivates us?", 
+                  "Finding our direction: What interests us?",
+                  "Finding our direction: What if we aren't good at this?",
+                  "Planning our destination: What questions excite us?",
+                  "Planning our destination: What if people think our questions are stupid?",
+                  "Detailing our maps: How will we get there?",
+                  "Detailing our maps: What if we don't know what to do?",
+                  "Honing our skills: What do we need to get there?",
+                  "Honing our skills: What if it doesn't work?",
+                  "Communicating our destination: Why should anyone care?",
+                  "Communicating our destination: What if no one listens?",
+                  "Funding our journey: Who will pay us?",
+                  "Staying the course: How will we stay motivated?",
+                  "Taking a break!",
+                  "Developing our explorer identities: What does our work mean to us and to the world?"), 
+                name = NULL, value = "Topic")
+ 
+col3 <- enframe(c("Ikigai diagrams", 
+                  "finding a topic", 
+                  "growth mindset", 
+                  "finding gaps to investigate",
+                  "imposter syndrome",
+                  "introduction to research methodologies",
+                  "being your own teacher",
+                  "introduction to research skillsets",
+                  "coping with failure",
+                  "persuasively communicating",
+                  "staying true to your values",
+                  "sample proposals/resumes",
+                  "techniques for persevering",
+                  "enjoying our holiday!",
+                  "personal statements"), name = NULL, value = "Activity")
+
+table <- cbind(col1, col2, col3) 
+
+knitr::kable(
+  table, booktabs = TRUE,
+) %>%
+  kableExtra::kable_styling(bootstrap_options = 
+                              c("striped", "hover", "condensed", "responsive")) %>%
+   kableExtra::column_spec(1, bold = T, border_right = T, width = "6em") %>%
+   kableExtra::column_spec(2, width = "30em")
+
+```

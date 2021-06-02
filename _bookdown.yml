@@ -1,12 +1,24 @@
 
 rmd_files: [
   "index.Rmd",
+  "navigating.Rmd",
   "1-week.Rmd",
   "2-week.Rmd",
   "3-week.Rmd",
   "4-week.Rmd",
-  "policies.Rmd",
+  "5-week.Rmd",
+  "6-week.Rmd",
+  "7-week.Rmd",
+  "8-week.Rmd",
+  "9-week.Rmd",
+  "10-week.Rmd",
+  "11-week.Rmd",
+  "12-week.Rmd",
+  "13-week.Rmd",
+  "14-week.Rmd",
+  "15-week.Rmd",
   "assignments.Rmd",
+  "policies.Rmd",
 
 ]
 
