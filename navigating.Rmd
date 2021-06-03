@@ -9,7 +9,7 @@ Discovering ourselves -- the values that drive us, the unique set of strengths w
 This website will serve as the informal "textbook" for our course. Using the navigation panel on the left (or click the three bars above if on a phone), you will find:
 
 1. A page for each week, outlining the topics, activities, and materials we will cover,
-2. More information on submitting your assignments and how they will be graded under [Submitting Assignments](#submitting-assignments), and 
+2. More information on how to submit your assignments under [Submitting Assignments](#submitting-assignments), and 
 3. Important course policies and information under [Policies](#policies).
 
 ## The broad course map {-}

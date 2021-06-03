@@ -2,9 +2,46 @@
 
 ## Course grading {-}
 
+Your grade will be based on the following components: attendance, participation, and the completion of your assignments. On weeks 5, 9, and 13, you will receive a progress report from me indicating your achievement in each of these three areas and feedback for improvement. You are also welcome to schedule a meeting with me at any time to discuss your progress in the course. **To receive a "Pass" grade, you will need to demonstrate proficiency in two of the three areas.**
+
+```{r}
+library(tidyverse)
+col1 <- enframe(c("Proficient", 
+                  "Developing",
+                  "Emerging"), name = NULL, value = "Levels")
+
+col2 <- enframe(c("No more than two missed classes", 
+                  "No more than four missed classes",
+                  "Missed more than four classes"), 
+                name = NULL, value = "Attendance")
+ 
+col3 <- enframe(c("Regular substantive and meaningful participation in class, indicating you have done the reading and are listening to your classmates", 
+                  "Occassional substantive and meaningful participation in class, indicating you have done the reading and are listening to your classmates", 
+                  "Little substantive participation in class"), name = NULL, value = "Participation")
+
+col4 <- enframe(c("No more than one missed assignment", 
+                  "No more than two missed assignments",
+                  "More than two missed assignments"), 
+                name = NULL, value = "Assignments")
+
+table <- cbind(col1, col2, col4, col3) 
+names(table) <- c("", "Attendance", "Assignments", "Participation")
+
+knitr::kable(
+  table, booktabs = TRUE,
+) %>%
+  kableExtra::kable_styling(bootstrap_options = 
+                              c("striped", "hover", "condensed", "responsive")) %>%
+   kableExtra::column_spec(1, bold = T, border_right = T, width = "5em") %>%
+   kableExtra::column_spec(2, width = "9em") %>%
+   kableExtra::column_spec(3, width = "9em") %>%
+   kableExtra::column_spec(4, width = "13em")
+
+```
+
 ## Code of conduct {-}
 
-1. **Be excellent to each other**. Our class is a community. 
+1. **Be excellent to each other**. Our class is a community. It is vital that everyone feels welcome and that we all work to create a safe space.
 2. Be considerate of each other
 3. Be respectful of each other
 
