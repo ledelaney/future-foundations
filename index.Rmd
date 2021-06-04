@@ -21,7 +21,7 @@ documentclass: book
 **Classroom:** BH 304  
 **Drop-in Hours:** Fridays 3:00-4:00p or by appointment</div>
 
-![](images/flamingo.png){.cover width="250"} This is an exciting time in your scholarly careers! I think of it like this: for so much of our time in school, there is a clearly paved road for us to follow. Our teachers provide us with detailed maps and a compass, just in case we get turned around. They show us how to read our compass and follow the signposts as we make our way down the road to the final destination -- whether that be successfully completing a course or graduating to the next grade. Our teachers always know whether or not we're doing the right thing, and many of our friends travel with us down the exact same road.
+![](images/flamingo.png){.cover width="38%"} This is an exciting time in your scholarly careers! I think of it like this: for so much of our time in school, there is a clearly paved road for us to follow. Our teachers provide us with detailed maps and a compass, just in case we get turned around. They show us how to read our compass and follow the signposts as we make our way down the road to the final destination -- whether that be successfully completing a course or graduating to the next grade. Our teachers always know whether or not we're doing the right thing, and many of our friends travel with us down the exact same road.
 
 On the other hand, independent research is a bit like being dropped by yourself in the middle of an unfamiliar forest. There is no map and there is no clear destination. You desperately want to ask someone, _Where am I supposed to go?_, or _Do I seriously have to climb this mountain right now?_ but no one can give you answers: no one knows the path you must take except for you.
 
