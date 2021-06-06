@@ -1,8 +1,11 @@
 # Submitting Assignments {-}
 
-You will complete an assignment each week throughout this course. 
+You will complete an assignment each week throughout this course. Before class, you will be responsible for watching and reading the outlined materials for that week (labeled **Watch** and **Read**). After class, you will do an assignment that puts together everything we discussed (labeled **Do**) -- due no later than 11:59p on Thursday before the following class.
 
-These assignments will be due no later than 11:59p on Thursday before class. 
+## Box {-}
 
+You will submit your assignments by emailing them to the appropriate Box email address listed under **Do**. 
+
+## Grading {-}
 
 See [Course grading](#course-grading) for an explanation of how your grades will be calculated.
