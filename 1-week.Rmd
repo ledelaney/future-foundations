@@ -6,7 +6,7 @@ Discovering our _Ikigai_: What motivates us?</div>
 
 Japanese concept meaning "reason for being" -- reflect on each component as it relates to us. Use our _Ikigai_ maps to help develop our professional identities and future goals.
 
-![Rough idea](http://www.mymoneyblog.com/wordpress/wp-content/uploads/2018/02/ikigai.gif){width="70%"}
+![Rough idea](images/ikigai.png){width="70%"}
 
 ## Watch
 
@@ -25,6 +25,7 @@ Japanese concept meaning "reason for being" -- reflect on each component as it r
 Finding Meaning and Purpose in Careers"
 + Book excerpt: _The Art of Work_
 
-## Assignment
+## Do
 
-Fill out our own _Ikagai_ diagrams and reflect on each component in writing.
+1. [Download blank _Ikigai_ diagram and fill out components.]()
+2. Reflect on questions in [this document]() for help!

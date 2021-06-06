@@ -12,6 +12,8 @@ This website will serve as the informal "textbook" for our course. Using the nav
 2. More information on how to submit your assignments under [Submitting Assignments](#submitting-assignments), and 
 3. Important course policies and information under [Policies](#policies).
 
+**Watch** and **Read** should be completed before classtime; **Do** are assignments will be due the following week after class.
+
 ## The broad course map {-}
 
 ```{r}

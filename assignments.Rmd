@@ -1,3 +1,8 @@
 # Submitting Assignments {-}
 
-You will complete XX assignments throughout this course, which will be submitted via Box email. See [Course grading](#course-grading) for an explanation of how your grades will be calculated.
+You will complete an assignment each week throughout this course. 
+
+These assignments will be due no later than 11:59p on Thursday before class. 
+
+
+See [Course grading](#course-grading) for an explanation of how your grades will be calculated.
