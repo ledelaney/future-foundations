@@ -54,7 +54,7 @@ col3 <- enframe(c("Ikigai diagrams",
                   "discovering our interests", 
                   "growth mindset", 
                   "finding gaps to investigate",
-                  "imposter syndrome",
+                  "impostor syndrome",
                   "introduction to research methodologies",
                   "being your own teacher",
                   "introduction to research skillsets",
@@ -63,7 +63,7 @@ col3 <- enframe(c("Ikigai diagrams",
                   "staying true to your values",
                   "sample proposals/resumes",
                   "techniques for persevering",
-                  "enjoying our holiday!",
+                  "enjoying the long weekend!",
                   "personal statements"), name = NULL, value = "Activity")
 
 table <- cbind(col1, col2, col3) 
