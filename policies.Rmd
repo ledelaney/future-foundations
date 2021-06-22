@@ -2,7 +2,7 @@
 
 ## Course grading {-}
 
-Your grade will be based on the following components: attendance, participation, and the completion of your assignments. On weeks 5, 9, and 13, you will receive a progress report from me indicating your achievement in each of these three areas and feedback for improvement. You are also welcome to schedule a meeting with me at any time to discuss your progress in the course. **To receive a "Pass" grade, you will need to demonstrate proficiency in two of the three areas.**
+Your grade will be based on the following components: attendance, participation, and the completion of your assignments. On weeks 5, 9, and 13, you will receive a progress report from me indicating your achievement in each of these three areas and feedback for improvement. You are also welcome to schedule a meeting with me at any time to discuss your progress in the course. **To receive a "Satisfactory" grade, you will need to demonstrate proficiency in two of the three areas.**
 
 ```{r}
 library(tidyverse)
