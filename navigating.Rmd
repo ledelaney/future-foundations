@@ -50,21 +50,21 @@ col2 <- enframe(c("Discovering our Ikigai: What motivates us?",
                   "Developing our explorer identities: What does our work mean to us and to the world?"), 
                 name = NULL, value = "Topic")
  
-col3 <- enframe(c("Ikigai diagrams", 
-                  "discovering our interests", 
-                  "growth mindset", 
-                  "finding gaps to investigate",
-                  "impostor syndrome",
+col3 <- enframe(c("reflecting on our Ikigai", 
+                  "finding and reading review papers", 
+                  "maintaining a growth mindset", 
+                  "examining abstracts",
+                  "coping with impostor syndrome",
                   "introduction to research methodologies",
                   "being your own teacher",
-                  "introduction to research skillsets",
+                  "introduction to research skills",
                   "coping with failure",
-                  "persuasively communicating",
+                  "persuasive written and verbal communication",
                   "staying true to your values",
-                  "sample proposals/resumes",
+                  "sample proposals or resumes",
                   "techniques for persevering",
                   "enjoying the long weekend!",
-                  "personal statements"), name = NULL, value = "Activity")
+                  "writing personal statements"), name = NULL, value = "Activity")
 
 table <- cbind(col1, col2, col3) 
 
