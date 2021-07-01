@@ -4,7 +4,12 @@ You will complete an assignment each week throughout this course. Before class, 
 
 ## Box {-}
 
-You will submit your assignments by emailing them to the appropriate Box email address listed under **Do**. 
+For this course, you will need to activate your UIC Box account. All students are given a Box account with unlimited storage, you just need to turn it on! (Box is basically like Dropbox, just a different company.) [Visit this website](https://help.uillinois.edu/TDClient/37/uic/KB/ArticleDet?ID=638) and follow the directions to activate your Box account. We will spend some time in class going over the cool features you can explore within Box.
+
+You will submit your assignments by emailing them to the appropriate Box email address listed under **Do** for that week. When you click on `SUBMIT ASSIGNMENT`, a draft email should open up. (If it doesn't, right click `SUBMIT ASSIGNMENT` and select `copy link address`. You can then copy-paste the email address.) Add your assignment as an attachment to the email, and click send. Voila! Your assignment is submitted.
+
+**For more, watch this comprehensive video on Box:**  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bu3Vo41vvk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Grading {-}
 
