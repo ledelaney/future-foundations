@@ -4,12 +4,36 @@
 **Topic**  
 Planning our destination: What questions excite us?</div>
 
-Learning to develop research questions -- after we find a topic, we must figure out how to distinguish gaps we might fill. What constitutes a good research question? How do we find papers and examine them for gaps? Examining the abstracts of journal articles from various disciplines to find motivations and questions.
+Once we've determined an area of interest, next we need to formulate an actual question we can answer. This can be trickier than it seems on the surface. We want to make sure that our question isn't broad enough to be meaningless (_what is philosophy?_) or so narrow that we have a hard time actually creating substantial work from it (_does my mom like ice cream?_). Ideally, our question is that sweet spot of not too-broad and not too-narrow.
+
+Research questions are also essential in that they are the very first thing we need to guide us on our journey. If research is like an exploration of the world, a research question is like deciding what specific place we want to go. First, it will help orient us so that we know what literature we should be reading. But deciding to go to St. Louis is very different than deciding to go to Nepal. In order to know what _kind_ of research we are going to do (theoretical, applied, exploratory, etc.) -- we first need to know what we are trying to answer. This in turn helps us determine the kind of skills we need to accomplish our research goals. 
+
+A good research question is formulated in such a way that it doesn't matter _what_ we find, so long as we find something. Take the question below:
+
+>Does owning a dog make people happier?
+
+We could certainly design an experiment to begin the process of empirically testing this question. But all we get is a simple "yes" or "no." Worse, if it's no, that's not terribly interesting. Instead, we might ask:
+
+>In what ways does dog ownership affect quality of life?
+
+This question is better, because it leads us to a more interesting and complex answer. And, no matter what we find, there's something to write about: even if the answer is that owning a dog makes people very depressed. (It doesn't.) The first question is also more subjective; it's asking about the internal state of individuals which is hard to standardize across different people. Who knows if what one person considers "very happy" is the same as what another person considers "very happy"? The second question suggests more objective pieces of data to collect -- if dog owners are spending more time outdoors walking their pets, we might consider looking at metrics like blood pressure or cardiovascular health.
+
+It's true that a great research question does not guarantee an amazing research paper. But it would be very difficult indeed to make an amazing research paper from a poorly constructed research question. This week, we will spend some time considering what makes a research question great and how we might find a great question in our area of interest.
 
 ## Watch 
 
+**How to Develop a STRONG Research Question | Scribbr**  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/71-GucBaM8U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**3 easy ways to identify the research gap | Academic English Now**  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/p2Tti_R_ADs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Read
+
++ Journal article: ["Developing great research questions"](https://uofi.box.com/s/16vllzjillhrgvg2j6yrhi2e88u3wyzz)
 
 ## Do
 
 _Due no later than Thursday, September 23 at 11:59p_
+
+1. Find three abstracts from journal articles in your area of interest.
