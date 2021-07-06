@@ -4,9 +4,9 @@
 **Topic**  
 Finding our Direction: What interests us?</div>
 
-The first stop of any research endeavor is nailing down an area of interest. Hopefully, most of us have a sense of the general field we wish to investigate. No matter how granular a research question can get, it can always be tied back to a broader field of study. For instance, one of my dissertation chapters asks the question, _What is the phylogenetic distribution and frequency of self-incompatibility in Fabaceae?_ This question exists in a sort of "topical heirarchy" from specific to broad like so:
+The first stop of any research endeavor is nailing down an area of interest. Hopefully, most of us have a sense of the general field we wish to investigate. No matter how granular a research question can get, it can always be tied back to a broader field of study. For instance, one of my dissertation chapters asks the question, _What is the phylogenetic distribution and frequency of self-incompatibility in Fabaceae?_ This question exists in a sort of "topical hierarchy" from specific to broad like so:
 
-![Topical heirarchy of a research area.](images/topic-heirarchy.png){width="90%"}
+![Topical hierarchy of a research area.](images/topic-heirarchy.png){width="90%"}
 
 It's not important that you know what all of these terms mean, just that you can see that research questions are usually very specific but exist within a broader field like "art" or "biology" or "philosophy." (Those fields exist within even broader categories, like the sciences or humanities.) Within a discipline like philosophy, there are then sub-disciplines that are also quite broad, like epistemology, metaphysics, or aesthetics.
 
