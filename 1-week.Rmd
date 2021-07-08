@@ -11,7 +11,9 @@ _Ikigai_ is a Japanase concept that roughly translates into "reason for being" -
 3. what the world needs: service that brings value to others
 4. what you can be rewarded for: skills that may translate into a paycheck, or provide benefits in some way
 
+<div id="center">
 ![Diagram of _Ikigai_ components and how they can overlap.](images/ikigai.png){width="90%"}
+</div>
 
 Obviously, you can love things that you aren't particularly good at, or that you can't get paid to do. I love playing guitar but no one would ever pay to hear me play. The trick is to reflect on each component separately, and then see if there are any skills or activities that overlap. 
 

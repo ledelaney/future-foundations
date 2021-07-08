@@ -8,6 +8,10 @@ Once we've determined an area of interest, next we need to formulate an actual q
 
 Research questions are also essential in that they are the very first thing we need to guide us on our journey. If research is like an exploration of the world, a research question is like deciding what specific place we want to go. First, it will help orient us so that we know what literature we should be reading. But deciding to go to St. Louis is very different than deciding to go to Nepal. In order to know what _kind_ of research we are going to do (theoretical, applied, exploratory, etc.) -- we first need to know what we are trying to answer. This in turn helps us determine the kind of skills we need to accomplish our research goals. 
 
+<div id="center">
+<div style="width:60%;height:0;padding-bottom:40%;position:relative;"><iframe src="https://giphy.com/embed/7TkybIBHcnC8pviJXj" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/patriotact-netflix-hasan-minhaj-patriot-act-7TkybIBHcnC8pviJXj">via GIPHY</a></p>
+</div>
+
 A good research question is formulated in such a way that it doesn't matter _what_ we find, so long as we find something. Take the question below:
 
 >Does owning a dog make people happier?
