@@ -4,11 +4,32 @@
 **Topic**  
 Detailing our maps: What if we don't know what to do?</div>
 
-Carrying out research sometimes means becoming your own teacher -- in the end, you will be the expert in your work even more than your academic advisor. Techniques for learning on your own.
+One of the most thrilling parts of conducting independent research is that by the end of your project, you will be an expert on something. In some cases, you will know more about your work than anyone, including your academic advisor. And that's kind of the point! In your academic courses, you need to demonstrate your understanding of content through the successful completion of tests and homework assignments. There are people around that know all the content you need to know (your Professors and TAs) and these people guide you through the process of learning. But conducting independent research often requires you to figure out _on your own_ what it is you need to know and how to acquire those skills. Our research question is _ours_ to answer, and while our advisors can point us in the right direction, they may not necessarily know how to do every task our projects require.
+
+That's tough, because the process of learning new skills is not easy. In fact, it can be downright uncomfortable. Think about when you first started with a particular skill: whether riding a bike, playing an instrument, or cracking a new video game. At first, we think really, really hard about what we're doing... and we make a ton of mistakes. As we get older, this can feel more embarrassing and overwhelming than it did when we were children. The first few months I was playing guitar, I was awful. I had no idea how to get my hands on the right strings and even when I managed to strum a chord it took an entire minute for me to get my fingers ready for the next chord. I couldn't play "songs" -- just a collection of bad chords with a lot of awkward gaps in between. I practiced every day for months and still it felt like I wasn't getting any better. I started to wonder: what's the point? 
+
+<div id="center">
+<div style="width:60%;height:0;padding-bottom:46%;position:relative;"><iframe src="https://giphy.com/embed/xT5LMwDv8zquNq1Qdi" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/season-10-the-simpsons-10x22-xT5LMwDv8zquNq1Qdi">via GIPHY</a></p>
+</div>
+
+As we know from previous weeks, this fixed-mindset mentality plays tricks on us. Luckily by the time I was trying to learn the guitar I had been in my PhD program for a few years, and I already knew how powerful dedicated and patient practice can be: it just needs time to work. I already knew that sinking feeling that I didn't know anything and I would never improve (my old friend!), so I just kept practicing through it. I set goals for myself, reached out to friends for help, watched lots of YouTube videos, and vowed to practice for at least 20 minutes every day. While I wasn't shredding amazing solos, within a year I was able to play some of my favorite songs -- without pausing between chords! -- along with other musicians. We live in a world where everyone advertises quick results, which makes it easy to give up if we don't see improvements right away. But developing skills can take _years_.
+
+>Don't let the fear of the time it will take to accomplish something stand in the way of your doing it. The time will pass anyway; we might just as well put that passing time to the best possible use.  
+--Earl Nightingale
+
+For me, the greatest gift that came from the pursuit of a PhD is the knowledge that I am capable of anything as long as I am willing to work hard at it. Of course, we all have our own physical and emotional limits that we need to take into account. But we can also all improve our current skills tremendously or pick up new skills as long as we are willing to dedicate time and patient practice to it. I never expected that getting a PhD would lead me to pick up the guitar -- something I tried to do and gave up on in high school because it was too hard -- but it makes perfect sense. So much of independent research requires us to challenge ourselves to learn something new (often on our own!) which is _also_ a skill like any other skill. The more you practice challenging yourself the better you become. So this week, we will consider the process of learning new skills as it relates both to our work and to our lives in general.
 
 ## Watch 
 
+**The Science of Thinking | Veritasium**  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UBVV8pch1dM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**How I Learned to Hold My Breath for 4 Minutes | Average Mike**  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/V6iyDEWG1CU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Read
+
++ Journal article: ["The Five-Stage Model of Adult Skill Acquisition"](https://uofi.box.com/s/t30seacd3z9bd7cex07zsrzqfrdytxhh)
 
 ## Do
 
