@@ -12,12 +12,16 @@ That's tough, because the process of learning new skills is not easy. In fact, i
 <div style="width:60%;height:0;padding-bottom:46%;position:relative;"><iframe src="https://giphy.com/embed/xT5LMwDv8zquNq1Qdi" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/season-10-the-simpsons-10x22-xT5LMwDv8zquNq1Qdi">via GIPHY</a></p>
 </div>
 
-As we know from previous weeks, this fixed-mindset mentality plays tricks on us. Luckily by the time I was trying to learn the guitar I had been in my PhD program for a few years, and I already knew how powerful dedicated and patient practice can be: it just needs time to work. I already knew that sinking feeling that I didn't know anything and I would never improve (my old friend!), so I just kept practicing through it. I set goals for myself, reached out to friends for help, watched lots of YouTube videos, and vowed to practice for at least 20 minutes every day. While I wasn't shredding amazing solos, within a year I was able to play some of my favorite songs -- without pausing between chords! -- along with other musicians. We live in a world where everyone advertises quick results, which makes it easy to give up if we don't see improvements right away. But developing skills can take _years_.
+As we know from previous weeks, this fixed-mindset mentality plays tricks on us. Luckily by the time I was trying to learn the guitar I had been in my PhD program for a few years, and I already knew the power of dedicated and patient practice: it just needs time to work. I was already familiar with that sinking feeling that I didn't know anything and I would never improve (my old friend!), so I just kept practicing through it. I set goals for myself, reached out to friends for help, watched lots of YouTube videos, and vowed to practice for at least 20 minutes every day. While I wasn't shredding amazing solos, within a year I was able to play some of my favorite songs -- without pausing between chords! -- along with other musicians. We live in a world where everyone advertises quick results, which makes it easy to give up if we don't see improvements right away. But developing skills can take _years_.
+
+\
 
 >Don't let the fear of the time it will take to accomplish something stand in the way of your doing it. The time will pass anyway; we might just as well put that passing time to the best possible use.  
 --Earl Nightingale
 
-For me, the greatest gift that came from the pursuit of a PhD is the knowledge that I am capable of anything as long as I am willing to work hard at it. Of course, we all have our own physical and emotional limits that we need to take into account. But we can also all improve our current skills tremendously or pick up new skills as long as we are willing to dedicate time and patient practice to it. I never expected that getting a PhD would lead me to pick up the guitar -- something I tried to do and gave up on in high school because it was too hard -- but it makes perfect sense. So much of independent research requires us to challenge ourselves to learn something new (often on our own!) which is _also_ a skill like any other skill. The more you practice challenging yourself the better you become. So this week, we will consider the process of learning new skills as it relates both to our work and to our lives in general.
+\
+
+For me, the greatest gift that came from the pursuit of a PhD is the knowledge that I am capable of anything as long as I am willing to work hard at it. Of course, we all have our own physical and emotional limits that we need to take into account. But we can also all improve our current skills tremendously or pick up new skills as long as we are willing to dedicate time and patient practice to it. I never expected that getting a PhD would lead me to pick up the guitar -- something I tried to do and gave up on in high school because it was too hard -- but it makes perfect sense. So much of independent research requires us to challenge ourselves to learn something new (often on our own!) which is _also_ a skill like any other skill. The more we practice challenging ourselves the better we become. So this week, we will consider the process of learning new skills as it relates both to our work and to our lives in general.
 
 ## Watch 
 
@@ -33,4 +37,23 @@ For me, the greatest gift that came from the pursuit of a PhD is the knowledge t
 
 ## Do
 
-_Due no later than Thursday, October 14 at 11:59p_
+_Due no later than Thursday, October 14 at 11:59p_  
+_If you don't have access to a computer, let me know and I'll provide an alternative assignment!_
+
+Follow the procedure outlined below to the best of your ability. You are welcome to use the internet to search anything you like, but for this assignment please work on your own! Take notes as you follow the procedure. Write down what you did, what you searched for online when you needed help, and where you got lost. These are the notes you will turn in for homework.
+
+**Note: This is meant to be challenging!** You may not even be able to complete the entire procedure and _that's okay_. The point is to get as far as you can, documenting what you did at each stage and what you tried when when you weren't sure what to do. You may also document how you were feeling as you worked on each part.
+
+PROCEDURE:
+
+1. Use your preferred search engine (e.g., Google) and locate where you can download the (free) software "R".
+2. Download R on your computer.
+3. Open R.
+4. Use your preferred search engine to research how you can store a collection of numbers in R like `1 2 3 4` (this is called a "vector").
+5. Store a vector (your collection of numbers) in R and use the function `mean()` to determine the mean value of your vector.
+
+\
+
+**Name of Assignmemt:** LASTNAME-Rjournal (submit as PDF, Word Document, or text file)  
+
+[[SUBMIT ASSIGNMENT](Assignm.fxl99o96o5xfz29c@u.box.com)]
