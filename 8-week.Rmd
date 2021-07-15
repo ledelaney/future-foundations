@@ -4,11 +4,42 @@
 **Topic**  
 Honing our skills: What do we need to get there?</div>
 
-Introduction to the various tools we can use in our work, with an emphasis on computational tools. Not just for analysis, but creating fresh and reproducible documents, designing websites, creating digital illustrations, organizing our resources (citation managers), etc.
+Once we figure out our questions and what information we need to answer those questions, we'll need to get to the nitty-gritty part of figuring out how to actually collect that information. For some of us, this may be pretty straightforward, and for others, more complicated. Maybe we are doing a meta-analysis and we need to collect every paper we can find on a certain topic. Maybe we are testing the effect of some kind of antibiotic on different bacterial strains, so we'll spend a lot of time in the lab. Maybe we are commenting on the influence of a certain philosopher on contemporary thought, so we are gathering relevant books from specialized libraries. 
+
+No matter the particulars of our project, we will need to find a way to (1) systematically collect information, (2) organize the information, and (3) evaluate the information. Step one will vary depending on our projects: this could require laboratory skills, observational skills, library research skills, or mathematical skills. Step two will more than likely involve the use of detailed notes and spreadsheets, and step three will almost always involve a computer.
+
+\
+
+<div id="center">
+<i style="color:thistle" class="fas fa-clipboard-list fa-3x"></i> \ \ \ <i style="color:gray" class="fas fa-arrow-right fa-3x"></i> \ \ \ <i style="color:rosybrown" class="fas fa-table fa-3x"></i> \ \ \ <i style="color:gray" class="fas fa-arrow-right fa-3x"></i>\ \ \ <i style="color:salmon" class="fas fa-laptop-code fa-3x"></i>
+</div>
+
+\
+
+I'll be straight up: I can't think of a single area of research in which you don't need some level of computational skill. Even if you work in the humanities, your work will be greatly enhanced by using computational tools to gather, organize, and store materials, analyze your data, and create compelling and beautiful documents. ([Digital humanities](https://online-learning.harvard.edu/course/introduction-digital-humanities?delta=2) is now a huge area of scholarly work.) My research straddles three disciplines -- biology, education, and philosophy -- and I use computational tools every single day. Here's just a few of the things I might do:
+
+1. I created the website you are reading right now with a software program called [R Studio](https://en.wikipedia.org/wiki/RStudio).
+2. Almost all of the digital illustrations on this website were either created by me or modified by me in [Adobe Illustrator](https://en.wikipedia.org/wiki/Adobe_Illustrator). I use Adobe Illustrator for many of the figures in my manuscripts.
+3. For meta-analysis, I need to keep track of the thousands of papers I collect so that I can make bibliographies. (Can you imagine making a bibliography by hand with 1000 sources?!) I use a software program called [Zotero](https://en.wikipedia.org/wiki/Zotero).
+4. I write all of my manuscripts with [a typsetting program](https://en.wikipedia.org/wiki/LaTeX) called $\LaTeX$, which allows me to make beautiful PDFs that I can easily format for different journals.
+5. I perform statistical analyses, make figures and tables, and write up reports using the [R programming language](https://en.wikipedia.org/wiki/R_(programming_language)). (I use statistical analyses in both my biology research and my education research.)
+6. I store all of my projects on [GitHub](https://en.wikipedia.org/wiki/GitHub), allowing me to sync my local files to a remote repository with version control and backups.
+
+(By the way, with the exception of Adobe Illustrator, all of these computational tools are completely free.)
+
+So this week, we will talk about the various skills we need to gather, organize, and evaluate information relevant to our projects. I will emphasize computational skills because I genuinely believe these to be the skills that will have the greatest impact on your work as young scholars. And of course, computational skills are also highly prized on the job market.
 
 ## Watch 
 
+**You Should Learn to Program | Christian Genco**  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xfBWk4nw440" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**What Most Schools Don't Teach | Code.org** 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nKIu9yen5nc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Read
+
++ Journal article: [Hearing Change in the Chocolate City: Computational Methods for Listening to Gentrification](https://uofi.box.com/s/4dkeyzyxtho78kv2vozvsbqo0pwheeay)
 
 ## Do
 

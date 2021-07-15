@@ -40,17 +40,28 @@ For me, the greatest gift that came from the pursuit of a PhD is the knowledge t
 _Due no later than Thursday, October 14 at 11:59p_  
 _If you don't have access to a computer, let me know and I'll provide an alternative assignment!_
 
-Follow the procedure outlined below to the best of your ability. You are welcome to use the internet to search anything you like, but for this assignment please work on your own! Take notes as you follow the procedure. Write down what you did, what you searched for online when you needed help, and where you got lost. These are the notes you will turn in for homework.
+Follow the procedure outlined below to the best of your ability. You are welcome to use the internet to search anything you like, but for this assignment please work on your own! Take notes as you follow the procedure. Write down what you did, what you searched for online when you needed help, and where you got lost. These are the notes you will turn in for homework. 
+
+Your notes should include:
+
++ What you looked up on Google
++ The URL of the websites that you used
++ What you were confused about
++ Why you got lost where you did and what you tried 
+
+\
 
 **Note: This is meant to be challenging!** You may not even be able to complete the entire procedure and _that's okay_. The point is to get as far as you can, documenting what you did at each stage and what you tried when when you weren't sure what to do. You may also document how you were feeling as you worked on each part.
 
-PROCEDURE:
+**PROCEDURE:**
 
 1. Use your preferred search engine (e.g., Google) and locate where you can download the (free) software "R".
 2. Download R on your computer.
 3. Open R.
-4. Use your preferred search engine to research how you can store a collection of numbers in R like `1 2 3 4` (this is called a "vector").
+4. Use your preferred search engine to research how you can store a collection of numbers in R like `1 2 3 4` (this is called a "numeric vector").
 5. Store a vector (your collection of numbers) in R and use the function `mean()` to determine the mean value of your vector.
+6. Do some research and find an R function that will allow you to randomly sample one value from your numeric vector.
+7. Write a function that will allow you to sample `n` values from any vector.
 
 \
 
