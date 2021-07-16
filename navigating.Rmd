@@ -62,7 +62,7 @@ col3 <- enframe(c("reflecting on our Ikigai",
                   "persuasive written & verbal communication",
                   "staying true to our values",
                   "sample proposals or resumes",
-                  "techniques for persevering",
+                  "techniques for balance",
                   "enjoying the long weekend!",
                   "writing personal statements"), name = NULL, value = "Activity")
 
