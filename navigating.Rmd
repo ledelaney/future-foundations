@@ -45,9 +45,9 @@ col2 <- enframe(c("Discovering our Ikigai: What motivates us?",
                   "Communicating our destination: Why should anyone care?",
                   "Communicating our destination: What if no one listens?",
                   "Funding our journey: Who will pay us?",
-                  "Staying the course: How will we stay motivated?",
+                  "Developing our explorer identities: What does our work mean to us and to the world?",
                   "Taking a break!",
-                  "Developing our explorer identities: What does our work mean to us and to the world?"), 
+                  "With an eye to the future: Why does this matter?"), 
                 name = NULL, value = "Topic")
  
 col3 <- enframe(c("reflecting on our Ikigai", 
@@ -62,9 +62,9 @@ col3 <- enframe(c("reflecting on our Ikigai",
                   "persuasive written & verbal communication",
                   "staying true to our values",
                   "sample proposals or resumes",
-                  "techniques for balance",
+                  "writing personal statements",
                   "enjoying the long weekend!",
-                  "writing personal statements"), name = NULL, value = "Activity")
+                  "improving our lives & communities"), name = NULL, value = "Activity")
 
 table <- cbind(col1, col2, col3) 
 
