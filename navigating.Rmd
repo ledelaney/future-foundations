@@ -43,7 +43,7 @@ col2 <- enframe(c("Discovering our Ikigai: What motivates us?",
                   "Honing our skills: What do we need to get there?",
                   "Honing our skills: What if it doesn't work?",
                   "Communicating our destination: Why should anyone care?",
-                  "Communicating our destination: What if no one listens?",
+                  "Communicating our destination: Where will we go from here?",
                   "Funding our journey: Who will pay us?",
                   "Developing our explorer identities: What does our work mean to us and to the world?",
                   "Taking a break!",
@@ -60,7 +60,7 @@ col3 <- enframe(c("reflecting on our Ikigai",
                   "introduction to computational skills",
                   "coping with failure",
                   "persuasive written & verbal communication",
-                  "staying true to our values",
+                  "jobs & graduate school",
                   "sample proposals or resumes",
                   "writing personal statements",
                   "enjoying the long weekend!",
@@ -74,6 +74,6 @@ knitr::kable(
   kableExtra::kable_styling(bootstrap_options = 
                               c("striped", "hover", "condensed", "responsive")) %>%
    kableExtra::column_spec(1, bold = T, border_right = T, width = "6em") %>%
-   kableExtra::column_spec(2, width = "30em")
+   kableExtra::column_spec(2, width = "20em")
 
 ```

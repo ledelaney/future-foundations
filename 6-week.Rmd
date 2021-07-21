@@ -16,7 +16,11 @@ Whew. That was a lot, and I left out a lot, too: I didn't even explain the compo
 
 Understanding what makes a "good explanation" is essential to the construction of our research projects for two reasons: (1) we need to know what information is relevant to our work, and (2) we need to know how to gather that information. Explaining _how_ radios work is largely an engineering problem so gathering data on this topic will be very different than explaining _why_ radios work, which is largely a problem of physics. Which is to say, the methods we use to answer our research questions will vary based on the questions we ask and the relevant information necessary to answer them. This is crucial, because providing a convincing explanation of a phenomenon can be harder than it seems. 
 
+\
+
 <blockquote class="twitter-tweet" data-dnt="true"><p lang="en" dir="ltr">What&#39;s the dumbest beliefs you had as a child?<br><br>When I was 4-5 I swore that bird seeds grew birds, thus the name. When my parents asked me to prove it to them, I planted a pile of bird seeds.<br><br>The next day there were loads of birds where I planted the seeds, showing I was right.</p>&mdash; _grimm (@ExileGrimm) <a href="https://twitter.com/ExileGrimm/status/1412448161688215553?ref_src=twsrc%5Etfw">July 6, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+\
 
 My thesis chapters mostly ask exploratory questions (remember: _What is the phylogenetic distribution and frequency of self-incompatibility in Fabaceae?_), but I employ various methods to approach each question. One method is referred to as "meta-analysis": gathering data from hundreds (or thousands!) of published scientific studies and synthesizing this data to determine what we know in a particular area. For other questions, I designed my own tools to gather and synthesize data from scratch. What tools? What data? All this depends on what we want to know, which depends on what question we wish to answer. Research in the humanities or creative arts may look very different than research in applied physics: so this week, we will spend time exploring various research methodologies and their utility to gather relevant information necessary to answer our questions.
 
