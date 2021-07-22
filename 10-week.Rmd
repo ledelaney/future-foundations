@@ -4,9 +4,24 @@
 **Topic**  
 Communicating our destination: Why should anyone care?</div>
 
-Persuasively communicating our work in written and/or oral form.
+A huge part of research is collecting data. But let's say we have data. Now what? What does the data mean? Why is it important? What does it tell us, and why does that matter? We care a lot about our data, because we've likely spent months or years collecting it and we are deeply intimate with our research question and what we hope to accomplish. But most people are busy. Most people won't know anything about what you've done or why or what's important about it. That gives us a very limited window to convince them.
+
+There are two main ways we communicate our research work: talks and manuscripts. Talks will vary a lot depending on where we give them, but in general, when we give a talk we aim to provide a compelling narrative within which our data fits. We don't focus on the specific code that manipulated our data, or the exact DNA extraction kit we used. Instead, we orient our audience in the big picture of where our work sits, and tell them a story about why we set out to collect the data we did and what conclusions we drew from it. No one wants to sit through a talk of, "and then I did this, and then I did this, and then I did this other thing..." We want to know _why_ and _what it means_!
+
+Manuscipts communicate our work differently than talks. These must of course include the big picture too, but manuscipts also include all the nitty-gritty details of your statistical methdologies and the specific DNA extraction kit you used. In science, manuscripts tend to have specific formatting and content requirements that must be closely followed. They almost always consist of an Abstract, Introduction, Methods and Materials, Results, and Discussion sections. Each section communicates different but important information.
+
+Like most things we've discussed in class so far, these are skills that need to be developed. Most of us are not born with the ability to be engaging public speakers. I think I wrote my first manuscript a dozen times before it was ready for submission.
 
 ## Watch
+
+**The greatest TED Talk ever sold | Morgan Spurlock**  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Y2jyjfcp1as" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Science Of Persuasion | influenceatwork**  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cFdCzN7RYbw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**"I've Been To The Mountaintop" excerpt | Martin Luther King, Jr.**  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Oehry1JC9Rk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Read
 
@@ -15,3 +30,5 @@ Persuasively communicating our work in written and/or oral form.
 ## Do
 
 _Due no later than Thursday, November 4 at 11:59p_
+
+
