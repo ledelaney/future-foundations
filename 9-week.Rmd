@@ -4,7 +4,11 @@
 **Topic**  
 Honing our skills: Who gets to do research?</div>
 
-Access to educational opportunity in this country is not equal nor equitable. [The numbers are very clear](https://en.wikipedia.org/wiki/Racial_achievement_gap_in_the_United_States): large disparities exist in educational attainment across racial and ethnic groups. A long history of systematic oppression and segregation, institutionalized discriminatory practices 
+Access to educational opportunity -- like many things in this country -- is not equal nor equitable. [The numbers are very clear](https://en.wikipedia.org/wiki/Racial_achievement_gap_in_the_United_States): large and persistent disparities exist in educational attainment across racial and ethnic groups. A long history of systematic oppression and segregation, institutionalized discriminatory practices, and income inequality mean that our colleges and universities are composed of disproportionately more White students and an overwhelmingly White faculty. 
+
+![[(Figure source.)](https://www.slideshare.net/kirwaninstitute/2010-02-18westmetroeducationprogram)](images/racial-inequalities.png){width="100%"}
+
+And of course, the work of academia -- our research -- is not done in a vacuum. As we know from our class discussions, who we are and the way we view the world has an enormous influence on our work. And beyond that: who decides what work is important? Who decides what questions are worth asking and answering? Who interprets the data, and through what lens do they interpret it? Whose scholarship is respected and valued? 
 
 ## Watch 
 
@@ -18,6 +22,7 @@ Access to educational opportunity in this country is not equal nor equitable. [T
 
 + Prologue: [_How to Suppress Women's Writing_]()
 + Article: ["Science can be used for oppression or liberation"](https://socialistworker.org/2018/04/11/science-can-be-used-for-oppression-or-liberation)
++ Article: ["How our data encodes systematic racism"](https://www.technologyreview.com/2020/12/10/1013617/racism-data-science-artificial-intelligence-ai-opinion/)
 
 
 ## Do
