@@ -17,11 +17,14 @@ Our job this week is to start investigating the various sub-disciplines within o
 ## Watch 
 
 **Research 101 - Part 1: Finding a Topic | Cal Poly Pomona University Library**  
+<div class="youtube-video-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VijUoD0jJNY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+</div>
 
 **Developing a Research Question | Steely Library NKU**  
+<div class="youtube-video-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LWLYCYeCFak" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ## Read
 

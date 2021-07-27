@@ -25,14 +25,19 @@ What pushes me past that anxiety to a place where I _can_ grow and develop in my
 ## Watch
 
 **How to know your life purpose in 5 minutes | Adam Leipzig**  
+<div class="youtube-video-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vVsXO9brK7M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 **Stop searching for your passion | Terri Trespicio**  
+<div class="youtube-video-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6MBaFL7sCb8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+</div>
 
 **Job versus Career | Chris Rock**    
+<div class="youtube-video-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-vSMrnFQyhI?start=131" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 
 ## Read

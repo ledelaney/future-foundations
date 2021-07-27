@@ -17,10 +17,14 @@ Doing something new is hard. It's hard to feel like a beginner. Many of us start
 ## Watch
 
 **The power of believing that you can improve | Carol Dweck**  
+<div class="youtube-video-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_X0mgOOSpLU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 **Change your mindset, change the game | Dr. Alia Crum**  
+<div class="youtube-video-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0tqq66zwa7g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ## Read
 

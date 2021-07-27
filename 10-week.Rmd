@@ -25,10 +25,14 @@ Like most things we've discussed in class so far, these are skills that require 
 ## Watch
 
 **The greatest TED Talk ever sold | Morgan Spurlock**  
+<div class="youtube-video-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Y2jyjfcp1as" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 **Science Of Persuasion | influenceatwork**  
+<div class="youtube-video-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cFdCzN7RYbw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">“I’m tired of marching for something that should’ve been mine at birth” <a href="https://t.co/fkGXOFbaL1">pic.twitter.com/fkGXOFbaL1</a></p>&mdash; Wayne Bryant (@BryantWay) <a href="https://twitter.com/BryantWay/status/1351200893102907399?ref_src=twsrc%5Etfw">January 18, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 

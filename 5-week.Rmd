@@ -24,10 +24,14 @@ There is also a tendancy to think that others know a great deal more than we do.
 ## Watch 
 
 **What is impostor syndrome and how can you combat it? | Elizabeth Cox**  
+<div class="youtube-video-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZQUxL4Jm1Lo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 **The Super Mario Effect - Tricking Your Brain into Learning More | Mark Rober**  
+<div class="youtube-video-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9vJRopau0g0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ## Read
 

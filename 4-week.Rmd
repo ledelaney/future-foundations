@@ -27,10 +27,14 @@ It's true that a great research question does not guarantee an amazing research 
 ## Watch 
 
 **How to Develop a STRONG Research Question | Scribbr**  
+<div class="youtube-video-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/71-GucBaM8U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 **3 easy ways to identify the research gap | Academic English Now**  
+<div class="youtube-video-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/p2Tti_R_ADs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ## Read
 

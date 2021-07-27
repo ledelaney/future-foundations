@@ -26,10 +26,14 @@ For me, the greatest gift that came from the pursuit of a PhD is the knowledge t
 ## Watch 
 
 **The Science of Thinking | Veritasium**  
+<div class="youtube-video-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UBVV8pch1dM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 **How I Learned to Hold My Breath for 4 Minutes | Average Mike**  
+<div class="youtube-video-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/V6iyDEWG1CU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ## Read
 
@@ -63,6 +67,7 @@ Your notes should include:
 5. Store a vector (your collection of numbers) in R and use the function `mean()` to determine the mean value of your vector.
 6. Do some research and find an R function that will allow you to randomly sample one value from your numeric vector.
 7. Write a function that will allow you to sample `n` values from any vector.
+8. Write a function that allows you to simulate rolling a dice (sample from numbers 1 through 6) `n` times.
 
 \
 
