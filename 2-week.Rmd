@@ -10,7 +10,7 @@ The first stop of any research endeavor is nailing down an area of interest. Hop
 ![Topical hierarchy of a research area.](images/topic-heirarchy.png){width="70%"}
 </div>
 
-It's not important that you know what all of these terms mean, just that you can see that research questions are usually very specific but exist within a broader field like "art" or "biology" or "philosophy." (Those fields exist within even broader categories, like the sciences or humanities.) Within a discipline like philosophy, there are then sub-disciplines that are also quite broad, like epistemology, metaphysics, or aesthetics.
+It's not important that you know what all of these terms mean, just that you can see that research questions are usually very specific but exist within a broader field like "art" or "biology" or "philosophy."[^23] Within a discipline like philosophy, there are then sub-disciplines that are also quite broad, like epistemology, metaphysics, or aesthetics.
 
 Our job this week is to start investigating the various sub-disciplines within our field so that we may find an area of interest for our research. There are lots of questions in the world -- and to find them requires reading!
 
@@ -54,3 +54,4 @@ For homework, you will send the following:
 
 [[SUBMIT ASSIGNMENT](mailto:Assignm.l16elhslwlpb8oej@u.box.com)]
 
+[^23]: Those fields exist within even broader categories, like the sciences or humanities.

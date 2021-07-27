@@ -4,7 +4,7 @@
 **Topic**  
 Discovering our _Ikigai_: What motivates us?</div>
 
-_Ikigai_ is a Japanase concept that roughly translates into "reason for being" -- a long history of literature has examined the relationship between something like _Ikigai_ (e.g., a sense of [instrinsic motivation](https://en.wikipedia.org/wiki/Motivation#Types_of_motivation)) and happiness. _Ikigai_ is traditionally composed of four parts that can overlap in various ways:
+_Ikigai_ is a Japanase concept that roughly translates into "reason for being" -- a long history of literature has examined the relationship between something like _Ikigai_ (e.g., a sense of instrinsic motivation[^1]) and happiness. _Ikigai_ is traditionally composed of four parts that can overlap in various ways:
 
 1. what you love: things that excite and interest you
 2. what you're good at: the skills you possess 
@@ -60,3 +60,5 @@ _Due no later than Thursday, September 2nd at 11:59p_
 **Name of File:** LASTNAME-Reflections (submit as PDF, Word Document, or text file)  
 
 [[SUBMIT ASSIGNMENT](mailto:Assignm.h16uafu1jl96pxla@u.box.com)]
+
+[^1]: [Wikipedia: Types of motivation](https://en.wikipedia.org/wiki/Motivation#Types_of_motivation)

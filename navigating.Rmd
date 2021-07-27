@@ -13,6 +13,8 @@ This website will serve as the informal "textbook" for our course. Using the nav
 2. More information on how to submit your assignments under [Submitting Assignments](#submitting-assignments), and 
 3. Important course policies and information under [Policies](#policies).
 
+You may also see numbers at the end of a sentence like this one.[^31]
+
 ## The broad course map {-}
 
 ```{r}
@@ -77,3 +79,5 @@ knitr::kable(
    kableExtra::column_spec(2, width = "20em")
 
 ```
+
+[^31]: Click them for more information!

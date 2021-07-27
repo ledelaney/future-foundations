@@ -16,18 +16,16 @@ No matter the particulars of our project, we will need to find a way to (1) syst
 
 \
 
-I'll be straight up: I can't think of a single area of research in which you don't need some level of computational skill. Even if you work in the humanities, your work will be greatly enhanced by using computational tools to gather, organize, and store materials, analyze your data, and create compelling and beautiful documents. ([Digital humanities](https://online-learning.harvard.edu/course/introduction-digital-humanities?delta=2) is now a huge area of scholarly work.) My research straddles three disciplines -- biology, education, and philosophy -- and I use computational tools every single day. Here's just a few of the things I might do:
+I'll be straight up: I can't think of a single area of research in which you don't need some level of computational skill. Even if you work in the humanities, your work will be greatly enhanced by using computational tools to gather, organize, and store materials, analyze your data, and create compelling and beautiful documents.[^10] My research straddles three disciplines -- biology, education, and philosophy -- and I use computational tools every single day. Here's just a few of the things I might do:[^11]
 
-1. I created the website you are reading right now with a software program called [R Studio](https://en.wikipedia.org/wiki/RStudio).
-2. Almost all of the digital illustrations on this website were either created by me or modified by me in [Adobe Illustrator](https://en.wikipedia.org/wiki/Adobe_Illustrator). I use Adobe Illustrator for many of the figures in my manuscripts.
-3. For meta-analysis, I need to keep track of the thousands of papers I collect so that I can make bibliographies. (Can you imagine making a bibliography by hand with 1000 sources?!) I use a software program called [Zotero](https://en.wikipedia.org/wiki/Zotero).
-4. I write all of my manuscripts with [a typsetting program](https://en.wikipedia.org/wiki/LaTeX) called $\LaTeX$, which allows me to make beautiful PDFs that I can easily format for different journals.
-5. I perform statistical analyses, make figures and tables, and write up reports using the [R programming language](https://en.wikipedia.org/wiki/R_(programming_language)). (I use statistical analyses in both my biology research and my education research.)
-6. I store all of my projects on [GitHub](https://en.wikipedia.org/wiki/GitHub), allowing me to sync my local files to a remote repository with version control and backups.
+1. I created the website you are reading right now with a software program called R Studio.[^12]
+2. Almost all of the digital illustrations on this website were either created by me or modified by me in Adobe Illustrator.[^13] I use Adobe Illustrator for many of the figures in my manuscripts.
+3. For meta-analysis, I need to keep track of the thousands of papers I collect so that I can make bibliographies.[^14] I use a software program called Zotero.[^15]
+4. I write all of my manuscripts with a typsetting program called $\LaTeX$,[^16] which allows me to make beautiful PDFs that I can easily format for different journals.
+5. I perform statistical analyses, make figures and tables, and write up reports using the R programming language.[^17]
+6. I store all of my projects on GitHub,[^18] allowing me to sync my local files to a remote repository with version control and backups.
 
-(By the way, with the exception of Adobe Illustrator, all of these computational tools are completely free.)
-
-So this week, we will talk about the various skills we need to gather, organize, and evaluate information relevant to our projects. I will emphasize computational skills because I genuinely believe these to be the skills that will have the greatest impact on your work as young scholars. And of course, computational skills are also highly prized on the job market.
+So this week, we will talk about the various skills we need to gather, organize, and evaluate information relevant to our projects. I will emphasize computational skills because I genuinely believe these to be the skills that will have the greatest positive impact on your work as young scholars.[^30]
 
 ## Watch 
 
@@ -56,3 +54,14 @@ At the top of the page, write your research question or problem. Below, write a 
 **Name of Assignmemt:** LASTNAME-ResearchSkills (submit as PDF, Word Document, or text file)  
 
 [[SUBMIT ASSIGNMENT](Assignm.fm5se02nmdodyogb@u.box.com)]
+
+[^10]: [Digital humanities](https://online-learning.harvard.edu/course/introduction-digital-humanities?delta=2) is now a huge area of scholarly work.
+[^11]: By the way, with the exception of Adobe Illustrator, all of these computational tools are completely free.
+[^12]: [Wikipedia: R Studio](https://en.wikipedia.org/wiki/RStudio)
+[^13]: [Wikipedia: Adobe Illustrator](https://en.wikipedia.org/wiki/Adobe_Illustrator)
+[^14]: Can you imagine making a bibliography by hand with 1000 sources?!
+[^15]: [Wikipedia: Zotero](https://en.wikipedia.org/wiki/Zotero)
+[^16]: [Wikipedia: LaTeX](https://en.wikipedia.org/wiki/LaTeX)
+[^17]: [Wikipedia: R programming language](https://en.wikipedia.org/wiki/R_(programming_language)). I use statistical analyses in both my biology research and my education research.
+[^18]: [Wikipedia: GitHub](https://en.wikipedia.org/wiki/GitHub)
+[^30]: And of course, computational skills are also highly prized on the job market.

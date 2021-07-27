@@ -6,7 +6,7 @@ Detailing our maps: How will we get there?</div>
 
 What does it mean to explain something? Philosophers have been debating about the nature of scientific explanation for more than a century, and there is no clear consensus. Think about it for a minute: how would you characterize and define the necessary components of a "good explanation"? If you ask me how a radio works and I respond that information travels through the air and is picked up by receivers, would that satisfy you? Is that enough data and context to fully explain functioning radios? How is information "traveling" and what is a "receiver"? What if I told you the information was carried by invisible flying horses? There is no method to verify whether or not that's true, and it sounds like a pretty bad explanation. 
 
-Perhaps I would need to first discuss [electromagnetic waves and their various frequencies](https://en.wikipedia.org/wiki/Radio_wave); explain that listening to 91.5 FM means listening to the 91.5 megaHertz frequency; explain that [the transmitter of this radio station](https://en.wikipedia.org/wiki/Transmitter) is oscillating at 91.5 million cycles per second creating a sinusoidal [waveform](https://en.wikipedia.org/wiki/Waveform); explain that the music is [modulated](https://en.wikipedia.org/wiki/Modulation) onto the waveform through variations in the instantaneous frequency (FM = Frequency Modulation) creating a [carrier wave](https://en.wikipedia.org/wiki/Carrier_wave); explain that the carrier wave travels through the air and is then picked up by [a receiver](https://en.wikipedia.org/wiki/Radio_receiver) (your radio) which can extract the music from the modulated signal.
+Perhaps I would need to first discuss electromagnetic waves[^4] and their various frequencies; explain that listening to 91.5 FM means listening to the 91.5 megaHertz frequency; explain that the transmitter[^5] of this radio station is oscillating at 91.5 million cycles per second creating a sinusoidal waveform;[^6] explain that the music is modulated[^7] onto the waveform through variations in the instantaneous frequency (FM = Frequency Modulation) creating a carrier wave;[^8] explain that the carrier wave travels through the air and is then picked up by a receiver[^9] (your radio) which can extract the music from the modulated signal.
 
 <div id="center">
 ![Radio transmission diagram from Wikipedia.](images/Radio_Transmission_Diagram.png){width=100%}
@@ -22,7 +22,7 @@ Understanding what makes a "good explanation" is essential to the construction o
 
 \
 
-My thesis chapters mostly ask exploratory questions (remember: _What is the phylogenetic distribution and frequency of self-incompatibility in Fabaceae?_), but I employ various methods to approach each question. One method is referred to as "meta-analysis": gathering data from hundreds (or thousands!) of published scientific studies and synthesizing this data to determine what we know in a particular area. For other questions, I designed my own tools to gather and synthesize data from scratch. What tools? What data? All this depends on what we want to know, which depends on what question we wish to answer. Research in the humanities or creative arts may look very different than research in applied physics: so this week, we will spend time exploring various research methodologies and their utility to gather relevant information necessary to answer our questions.
+My thesis chapters mostly ask exploratory questions,[^26] but I employ various methods to approach each question. One method is referred to as "meta-analysis": gathering data from hundreds (or thousands!) of published scientific studies and synthesizing this data to determine what we know in a particular area. For other questions, I designed my own tools to gather and synthesize data from scratch. What tools? What data? All this depends on what we want to know, which depends on what question we wish to answer. Research in the humanities or creative arts may look very different than research in applied physics: so this week, we will spend time exploring various research methodologies and their utility to gather relevant information necessary to answer our questions.
 
 ## Watch 
 
@@ -57,3 +57,10 @@ Write 1-2 pages outlining the methodology you will use to answer your research q
 
 [[SUBMIT ASSIGNMENT](Assignm.rt6qthhlv1tnkkol@u.box.com)]
 
+[^4]: [Wikipedia: Radio wave](https://en.wikipedia.org/wiki/Radio_wave)
+[^5]: [Wikipedia: Transmitter](https://en.wikipedia.org/wiki/Transmitter)
+[^6]: [Wikipedia: Waveform](https://en.wikipedia.org/wiki/Waveform)
+[^7]: [Wikipedia: Modulation](https://en.wikipedia.org/wiki/Modulation)
+[^8]: [Wikipedia: Carrier wave](https://en.wikipedia.org/wiki/Carrier_wave)
+[^9]: [Wikipedia: Radio receiver](https://en.wikipedia.org/wiki/Radio_receiver)
+[^26]: remember: _What is the phylogenetic distribution and frequency of self-incompatibility in Fabaceae?_

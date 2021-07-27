@@ -12,7 +12,7 @@ That's tough, because the process of learning new skills is not easy. In fact, i
 <div style="width:60%;height:0;padding-bottom:46%;position:relative;"><iframe src="https://giphy.com/embed/xT5LMwDv8zquNq1Qdi" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/season-10-the-simpsons-10x22-xT5LMwDv8zquNq1Qdi">via GIPHY</a></p>
 </div>
 
-As we know from previous weeks, this fixed-mindset mentality plays tricks on us. Luckily by the time I was trying to learn the guitar I had been in my PhD program for a few years, and I already knew the power of dedicated and patient practice: it just needs time to work. I was already familiar with that sinking feeling that I didn't know anything and I would never improve (my old friend!), so I just kept practicing through it. I set goals for myself, reached out to friends for help, watched lots of YouTube videos, and vowed to practice for at least 20 minutes every day. While I wasn't shredding amazing solos, within a year I was able to play some of my favorite songs -- without pausing between chords! -- along with other musicians. We live in a world where everyone advertises quick results, which makes it easy to give up if we don't see improvements right away. But developing skills can take _years_.
+As we know from previous weeks, this fixed-mindset mentality plays tricks on us. Luckily by the time I was trying to learn the guitar I had been in my PhD program for a few years, and I already knew the power of dedicated and patient practice: it just needs time to work. I was already familiar with that sinking feeling that I didn't know anything and I would never improve,[^27] so I just kept practicing through it. I set goals for myself, reached out to friends for help, watched lots of YouTube videos, and vowed to practice for at least 20 minutes every day. While I wasn't shredding amazing solos, within a year I was able to play some of my favorite songs -- without pausing between chords! -- along with other musicians. We live in a world where everyone advertises quick results, which makes it easy to give up if we don't see improvements right away. But developing skills can take _years_.
 
 \
 
@@ -74,3 +74,5 @@ Your notes should include:
 **Name of Assignmemt:** LASTNAME-Rjournal (submit as PDF, Word Document, or text file)  
 
 [[SUBMIT ASSIGNMENT](Assignm.fxl99o96o5xfz29c@u.box.com)]
+
+[^27]: my old friend!

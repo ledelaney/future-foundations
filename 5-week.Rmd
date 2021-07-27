@@ -4,7 +4,7 @@
 **Topic**  
 Planning our destination: What if people think our questions are stupid?</div>
 
-Clance and Imes (1978) first coined the term "impostor phenomenon" to describe a state of mind where a person's external achievements are at odds with their internal perception of their skills. The study focused on a group of women that possessed all the markers of successful individuals, including academic achievements, high standardized test scores, and external recognition of professional excellence -- but each felt that their success was an accident or that they did not belong in their current positions. A major conclusion was that these women unknowingly internalized the belief the women in general were inherently less capable (a common belief in the 1970s), and to reconcile this belief with their own success they reasoned that their success must be fake. 
+Clance and Imes (1978)[^3] first coined the term "impostor phenomenon" to describe a state of mind where a person's external achievements are at odds with their internal perception of their skills. The study focused on a group of women that possessed all the markers of successful individuals, including academic achievements, high standardized test scores, and external recognition of professional excellence -- but each felt that their success was an accident or that they did not belong in their current positions. A major conclusion was that these women unknowingly internalized the belief the women in general were inherently less capable,[^25] and to reconcile this belief with their own success they reasoned that their success must be fake. 
 
 To understand why this may happen, let's first unpack the term _cognitive dissonance_. Cognitive dissonance is a term used to describe the discomfort experienced when there are inconsistencies within ones own mind. Let's say that I spend my free time advocating for workers rights, but I do all my shopping on Amazon. How do I reconcile these two things internally? Can I consider myself a champion of workers rights while also supporting a company that treats its workers poorly? This inconsistency can cause _cognitive dissonance_ -- to restore _cognitive resonance_, I may need to change my shopping habits, change my beliefs about workers rights or Amazon, or actively push these thoughts out of my head altogether. Which is to say, it requires a bit of mental gymnastics.
 
@@ -51,3 +51,5 @@ _Due no later than Thursday, September 30 at 11:59p_
 [[SUBMIT ASSIGNMENT](Assignm.v0z4y5s3ff8vh42w@u.box.com)]
  
 
+[^3]: [Clance and Imes (1978)](https://psycnet.apa.org/record/1979-26502-001)
+[^25]: An unfortunately common belief in the 1970s.
