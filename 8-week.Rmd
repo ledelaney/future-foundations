@@ -53,7 +53,7 @@ At the top of the page, write your research question or problem. Below, write a 
 
 **Name of Assignmemt:** LASTNAME-ResearchSkills (submit as PDF, Word Document, or text file)  
 
-[[SUBMIT ASSIGNMENT](Assignm.fm5se02nmdodyogb@u.box.com)]
+[[SUBMIT ASSIGNMENT](mailto:Assignm.fm5se02nmdodyogb@u.box.com)]
 
 [^10]: [Digital humanities](https://online-learning.harvard.edu/course/introduction-digital-humanities?delta=2) is now a huge area of scholarly work.
 [^11]: By the way, with the exception of Adobe Illustrator, all of these computational tools are completely free.
