@@ -41,7 +41,9 @@ There is a lot of variation in professional schools: medical, law, pharmacy, bus
 
 ### For those of you that don't have a dang clue
 
-I feel you! Read through any of the materials above or do some research on career opportunities in your area of interest. Send me the URLs of any new articles you find.
+I feel you! Read the article below and any of the materials above, or do some research on career opportunities in your area of interest. Send me the URLs of any new articles you find.
+
++ Article: ["Picking your professional path"](https://e2eml.school/professional_path.html)
 
 ## Do
 
@@ -58,6 +60,6 @@ Let's say you plan on entering the job market and you want to secure a job the s
 [[SUBMIT ASSIGNMENT](mailto:Assignm.q1por5lagle4n232@u.box.com)]
 
 
-[^32]: Sort of, anyway. Enough not to quit!
+[^32]: Sort of, anyway. Enough not to quit.
 [^33]: I chose articles for you, brave souls, since these articles resonated the most with my own experiences in PhD school. If you find other articles that are discipline-specific that you would rather read, go ahead and send me those URLs.
 [^34]: `r emo::ji("sob")`
