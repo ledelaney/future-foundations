@@ -4,7 +4,11 @@
 **Topic**   
 Funding our journey: Who will pay us?</div>
 
-Finding job and/or funding opportunities, and techniques for successful applications.
+It's pretty obvious to point out that stuff costs money. Research itself can cost money,[^37] but then the time it takes to do research can also cost us since it takes away time from paying work. Ideally the graduate programs we attend include stipends and tuition waivers,[^38] but many don't. Folks planning to attend medical school can expect upwards of a quarter-million dollars in tuition depending on the program.
+
+Luckily, it's not all doom-and-gloom. There are plenty of opportunities for funding through grants and scholarships. If you check out the UIC External Scholarships page,[^39] you'll find tons of scholarships organized by identity, discipline, and special interests. There are also internships and study abroad opportunities. Taking advantage of these opportunities includes a two-fold advantage: first, you get to participate in something awesome, and second, scholarships and funding make for great additions to your CV or resume.
+
+A big part of the job of grown researchers is applying for funding. 
 
 ## Watch 
 
@@ -13,3 +17,7 @@ Finding job and/or funding opportunities, and techniques for successful applicat
 ## Do
 
 _Due no later than Thursday, November 18 at 11:59p_
+
+[^37]: Reagents, equipment, travel, etc.
+[^38]: You should never do a PhD program that does not include these things, for instance.
+[^39]: https://scholarships.uic.edu/scholarships/external-scholarships/
