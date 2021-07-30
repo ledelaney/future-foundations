@@ -8,16 +8,45 @@ It's pretty obvious to point out that stuff costs money. Research itself can cos
 
 Luckily, it's not all doom-and-gloom. There are plenty of opportunities for funding through grants and scholarships. If you check out the UIC External Scholarships page,[^39] you'll find tons of scholarships organized by identity, discipline, and special interests. There are also internships and study abroad opportunities. Taking advantage of these opportunities includes a two-fold advantage: first, you get to participate in something awesome, and second, scholarships and funding make for great additions to your CV or resume.
 
-A big part of the job of grown researchers is applying for funding. 
+<div id="center">
+![Mr. T says.](images/mr-t.jpg){width="50%"}
+</div>
+
+Most of the money for research performed at universities comes from federal funding in the form of grants. If you plan on going into academia, it's best to start practicing this skill now. Demonstrating that you can clearly articulate a research plan and convince a committee of its value _enough to give you money to do it_ is basically essential to your success as a practicing researcher. The Office of Undergraduate Research at UIC[^40] is a wonderful resource and lists both on-campus and external opportunities for research funding.
+
+So this week, we will dive into the thorny world of funding. We will discuss opportunities for scholarships and grants that are available through UIC and externally, and the components of successful applications. We will also touch on the mechanics and ethics of government research funding. 
 
 ## Watch 
 
+**Why There Is No Alternative to Publicly Funded Science Research | Avideh Zakhor**  
+<div class="youtube-video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iTx61EE9GRI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
+**Reinvent Research Funding Through Storytelling | Larry Lawal**  
+<div class="youtube-video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/073R9CD1QKw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## Read
+
++ Review: [Honors College Scholarship information](https://honors.uic.edu/resources/scholarships/)
++ Sample grant proposals (select one): [Annotated sample grant proposals](https://undergradresearch.northwestern.edu/advising/sample-grant-proposals/)
 
 ## Do
 
 _Due no later than Thursday, November 18 at 11:59p_
 
-[^37]: Reagents, equipment, travel, etc.
+Your job this week is to write a short grant proposal for your Capstone project, using the template [outlined here](https://theprofessorisin.com/2011/07/05/dr-karens-foolproof-grant-template/) that we discussed in class. Your proposal should be at least two pages, but you are welcome to write more. If you are far enough along in your Capstone project, you should tailor your proposal to a [real funding opportunity at UIC or externally](http://ure.uic.edu/resources.php).
+
+\
+
+**Name of Assignmemt:** LASTNAME-Proposal (submit as PDF, Word Document)  
+
+[[SUBMIT ASSIGNMENT](mailto:Assignm.dm84yoc0bv6i5eoi@u.box.com)]
+
+[^37]: Reagents, equipment, travel for field work, sequencing, etc.
 [^38]: You should never do a PhD program that does not include these things, for instance.
 [^39]: https://scholarships.uic.edu/scholarships/external-scholarships/
+[^40]: https://undergradresearch.uic.edu/opportunities/funding/students/
