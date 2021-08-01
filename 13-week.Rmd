@@ -5,7 +5,12 @@
 Developing our explorer identities: What does our work mean to us and to the world?
 </div>
 
-Learning how to put it all together to communicate our professional identities.
+No matter our goals, at some point we will need to begin communicating our professional identities to others in writing and speech. For gradaute school, we'll write personal statements and meet with potential advisors and colleagues. Entering the job market, we'll write cover letters and participate in interviews.[^41] Resumes and CVs provide a list of our accomplishments that may get our materials on someone's desk. From there, it's up to us to provide a compelling case that we are truly capable of whatever the task at hand -- conducting independent research, working as part of a corporate team, or advancing successfully in medical school. Creating a compelling case involves constructing a narrative that weaves our personal values in with our experience and skills.
+
+At its core, there is really only one question we hope to answer with our compelling narrative: will we be successful? It's our job to know what it means to "be successful" and to clearly demonstrate that we have the relevant skills and experience to do so. _Success_ means something different for PhD school, other professional schools, or industry jobs,[^42] so it's worth taking some time to first consider the attributes of a successful candidate. Once we understand that, we may begin building the case for our success -- using tangible, concrete examples. We want to include a bit of ourselves and our worldview, but unlike college admissions essays, cover letters and personal statements aren't so much about our personal journey as our _professional_ one. Ultimately, they should powerfully communicate one thing: we will be successful.
+
+
+
 
 ## Watch
 
@@ -16,3 +21,6 @@ Learning how to put it all together to communicate our professional identities.
 _Due no later than Thursday, December 2 at 11:59pm_
 
 First draft of personal statement
+
+[^41]: Probably a lot! It is not uncommon to do several rounds of interviews with many different people for a single job offer.
+[^42]: For example, in PhD school, _success_ means a good deal more than simply graduating.
