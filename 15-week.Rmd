@@ -8,16 +8,27 @@ Humans are funny creatures. Our big brains have allowed us to experiment with an
 
 But why extend the boundary of human knowledge? How does that knowledge actually shape the world? Does everyone gain from that, or only some of us? Are there some questions that shouldn't be asked, shouldn't be answered? What is the end goal of research? Improving the world? Understanding the world? In other words, _why do we do what we do_?
 
+It's likely that every academic you ask would give you a slightly different answer to this question, but I suspect most recognize the power that understanding our world unlocks. Understanding our history, so that we can reflect on our more dangerous human tendencies and not repeat the mistakes of our past.[^44] Understanding our cosmos, so that we can place our Earth in the context of the universe and marvel at the rarity of of our planet full of life. Understanding life, so that we can work out how a few chemical building blocks transformed into the enormous diversity of creatures we see today. The list goes on.[^45] 
 
+This week, our last week together, we will consider the promise and power that understanding holds for us as individuals, for our communities, and for the world. We will reflect on the good and the irrefutable harships that our progress and understanding has brought to humankind. And finally, we will start working on an answer to that important question: why do we do what we do?
 
 ## Watch 
 
-What makes a good life? Lessons from the longest study on happiness | Robert Waldinger
+**What makes a good life? Lessons from the longest study on happiness | Robert Waldinger**  
+<div class="youtube-video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8KkKuTCFvzI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
-How great leaders inspire action | Simon Sinek
+**Empathy | Simon Sinek**  
+<div class="youtube-video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IJyNoJCAuzA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ## Read
 
 ## Do
 
 _Final drafts of personal statements due Thursday of finals week!_
+
+[^44]: If only.
+[^45]: And on. And on.

@@ -66,7 +66,7 @@ col3 <- enframe(c("reflecting on our Ikigai",
                   "sample proposals or resumes",
                   "writing personal statements",
                   "enjoying the long weekend!",
-                  "improving our lives & communities"), name = NULL, value = "Activity")
+                  "examining why we do what we do"), name = NULL, value = "Activity")
 
 table <- cbind(col1, col2, col3) 
 
