@@ -2,6 +2,7 @@
 rmd_files: [
   "index.Rmd",
   "navigating.Rmd",
+  "assignments.Rmd",
   "1-week.Rmd",
   "2-week.Rmd",
   "3-week.Rmd",
@@ -17,8 +18,8 @@ rmd_files: [
   "13-week.Rmd",
   "14-week.Rmd",
   "15-week.Rmd",
-  "assignments.Rmd",
   "policies.Rmd",
+  "course-description.Rmd"
 
 ]
 
