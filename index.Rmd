@@ -13,8 +13,6 @@ documentclass: book
 
 # The Journey Begins {-}
 
-<i class="fas fa-tools fa-lg"></i> _Note: This website is currently under construction!_ <i class="fas fa-tools fa-lg"></i>
-
 <div class="boxed">
 **Instructor:** Lucy Delaney (`ldelan5@uic.edu`)  
 **Time:** Fridays 2:00-2:50pm  
