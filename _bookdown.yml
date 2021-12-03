@@ -3,6 +3,7 @@ rmd_files: [
   "index.Rmd",
   "navigating.Rmd",
   "assignments.Rmd",
+  "mixtape.Rmd",
   "1-week.Rmd",
   "2-week.Rmd",
   "3-week.Rmd",
